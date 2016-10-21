@@ -3,7 +3,7 @@ janusApp.controller('mainController', function($scope, $http, $location, $cookie
 //===================
 // -- VARIABLES --
 //===================
-	var path = 'http://localhost:5000/';
+	var path = 'http://janus.ericettensohn.com/';
 
 	//This is for the user to load the notes they have written and ng-repeats through this.
 	$scope.notes = [];
