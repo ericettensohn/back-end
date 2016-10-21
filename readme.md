@@ -1,7 +1,7 @@
 #Janus - Organize Your Life
 ---
 
-##[Live Demo](http://janus.paigeniedringhaus.com/#)
+##[Live Demo](http://janus.ericettensohn.com)
 ---
 
 ##Contents
